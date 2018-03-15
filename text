@@ -1,0 +1,34 @@
+Project Month
+
+Making a text based game.
+
+Language:(options)-C# or java
+
+genre: rpg/adventure
+
+web based
+
+aspects:
+-random options with random chance or events as a result
+-text based
+-modern day setting then being transported or summoning or reincarnated into another world or time
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Class:(basic)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-Warrior
+-Mage
+-Archer
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~equipment/items~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-bag (medium size ~ 15-25)
+-temporary item use during battle
+-prepare attack and defense before battle
+-sets of equipments (5 unique sets) (common/uncommon/rare)
+-3 armour- headset, chestplate, bottom
+-1 weapon - bow(archer), longsword(warrior), staff(mage)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Battle Mode~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Team battle- text turn based:
+-three members including you in your team
+-faster you are 
